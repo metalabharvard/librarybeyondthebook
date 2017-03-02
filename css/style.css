@@ -1,0 +1,20 @@
+.download-section a:hover {
+		color: #fff;
+}
+
+.card-flip {
+	margin-bottom: 35px;
+}
+
+.card-flip img {
+	display: block;
+	position: relative;
+	float:left;
+	max-width: 100%;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.card-flip img:hover {
+	cursor: pointer;
+}
